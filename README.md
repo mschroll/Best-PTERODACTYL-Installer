@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Pterodactyl Installer</strong></h1>
+<h1 align="center"><strong>INSTALLER - THIS IS NOT MINE</strong></h1>
 
 With this script you can easily install, update or delete Pterodactyl Panel. Everything is gathered in one script.
 
